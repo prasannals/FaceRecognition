@@ -1,0 +1,6 @@
+insightface==0.7.3
+numpy==2.2.6
+opencv_python==4.11.0.86
+opencv_python_headless==4.11.0.86
+scipy==1.15.3
+tqdm==4.66.5

@@ -1,0 +1,177 @@
+{
+  "prasanna.jpg": {
+    "ground_truth": "Prasanna",
+    "top_k": [
+      {
+        "label": "George_Foreman",
+        "score": 0.08361539431522624,
+        "image": "train/George_Foreman/George_Foreman_0002.jpg"
+      },
+      {
+        "label": "George_Clooney",
+        "score": 0.0189372250807609,
+        "image": "train/George_Clooney/George_Clooney_0005.jpg"
+      },
+      {
+        "label": "George_HW_Bush",
+        "score": 0.01075430324626403,
+        "image": "train/George_HW_Bush/George_HW_Bush_0007.jpg"
+      },
+      {
+        "label": "George_HW_Bush",
+        "score": 0.0006768061791233571,
+        "image": "train/George_HW_Bush/George_HW_Bush_0009.jpg"
+      },
+      {
+        "label": "George_Clooney",
+        "score": -0.0003750960754240751,
+        "image": "train/George_Clooney/George_Clooney_0008.jpg"
+      }
+    ],
+    "hits": {
+      "1": false,
+      "3": false,
+      "5": false
+    }
+  },
+  "Clooney.jpg": {
+    "ground_truth": "George_Clooney",
+    "top_k": [
+      {
+        "label": "George_Clooney",
+        "score": 0.6702946335895489,
+        "image": "train/George_Clooney/George_Clooney_0002.jpg"
+      },
+      {
+        "label": "George_Clooney",
+        "score": 0.6691694279327528,
+        "image": "train/George_Clooney/George_Clooney_0005.jpg"
+      },
+      {
+        "label": "George_Clooney",
+        "score": 0.6522189122544271,
+        "image": "train/George_Clooney/George_Clooney_0008.jpg"
+      },
+      {
+        "label": "George_Clooney",
+        "score": 0.6259426722893172,
+        "image": "train/George_Clooney/George_Clooney_0007.jpg"
+      },
+      {
+        "label": "George_Clooney",
+        "score": 0.5904032275869535,
+        "image": "train/George_Clooney/George_Clooney_0009.jpg"
+      }
+    ],
+    "hits": {
+      "1": true,
+      "3": true,
+      "5": true
+    }
+  },
+  "Galloway.jpg": {
+    "ground_truth": "George_Galloway",
+    "top_k": [
+      {
+        "label": "George_Galloway",
+        "score": 0.6375906583370051,
+        "image": "train/George_Galloway/George_Galloway_0004.jpg"
+      },
+      {
+        "label": "George_Galloway",
+        "score": 0.5985965302793804,
+        "image": "train/George_Galloway/George_Galloway_0003.jpg"
+      },
+      {
+        "label": "George_Galloway",
+        "score": 0.5662362863624132,
+        "image": "train/George_Galloway/George_Galloway_0002.jpg"
+      },
+      {
+        "label": "George_Foreman",
+        "score": 0.09555364102664488,
+        "image": "train/George_Foreman/George_Foreman_0002.jpg"
+      },
+      {
+        "label": "George_Clooney",
+        "score": 0.03352070819297048,
+        "image": "train/George_Clooney/George_Clooney_0004.jpg"
+      }
+    ],
+    "hits": {
+      "1": true,
+      "3": true,
+      "5": true
+    }
+  },
+  "Foreman.jpg": {
+    "ground_truth": "George_Foreman",
+    "top_k": [
+      {
+        "label": "George_Foreman",
+        "score": 0.681727690766048,
+        "image": "train/George_Foreman/George_Foreman_0002.jpg"
+      },
+      {
+        "label": "George_Galloway",
+        "score": 0.06807686792882206,
+        "image": "train/George_Galloway/George_Galloway_0004.jpg"
+      },
+      {
+        "label": "George_Galloway",
+        "score": 0.06686854615851878,
+        "image": "train/George_Galloway/George_Galloway_0002.jpg"
+      },
+      {
+        "label": "George_Clooney",
+        "score": 0.06523666140267737,
+        "image": "train/George_Clooney/George_Clooney_0004.jpg"
+      },
+      {
+        "label": "George_Clooney",
+        "score": 0.04220935531834957,
+        "image": "train/George_Clooney/George_Clooney_0005.jpg"
+      }
+    ],
+    "hits": {
+      "1": true,
+      "3": true,
+      "5": true
+    }
+  },
+  "Bush.jpg": {
+    "ground_truth": "George_HW_Bush",
+    "top_k": [
+      {
+        "label": "George_HW_Bush",
+        "score": 0.5952762030335581,
+        "image": "train/George_HW_Bush/George_HW_Bush_0006.jpg"
+      },
+      {
+        "label": "George_HW_Bush",
+        "score": 0.5917669280205615,
+        "image": "train/George_HW_Bush/George_HW_Bush_0007.jpg"
+      },
+      {
+        "label": "George_HW_Bush",
+        "score": 0.5874762914823749,
+        "image": "train/George_HW_Bush/George_HW_Bush_0011.jpg"
+      },
+      {
+        "label": "George_HW_Bush",
+        "score": 0.5775377982041929,
+        "image": "train/George_HW_Bush/George_HW_Bush_0003.jpg"
+      },
+      {
+        "label": "George_HW_Bush",
+        "score": 0.5647070998502137,
+        "image": "train/George_HW_Bush/George_HW_Bush_0013.jpg"
+      }
+    ],
+    "hits": {
+      "1": true,
+      "3": true,
+      "5": true
+    }
+  }
+}

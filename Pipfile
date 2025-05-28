@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+insightface = "==0.7.3"
+numpy = "==2.2.6"
+opencv-python = "==4.11.0.86"
+opencv-python-headless = "==4.11.0.86"
+scipy = "==1.15.3"
+tqdm = "==4.66.5"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
