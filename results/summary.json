@@ -1,6 +1,6 @@
 {
-  "hits@1": 0.8,
-  "hits@3": 0.8,
-  "hits@5": 0.8,
-  "num_eval_images": 5
+  "hits@1": 1.0,
+  "hits@3": 1.0,
+  "hits@5": 1.0,
+  "num_eval_images": 4
 }
